@@ -1,2 +1,2 @@
 Bootstrap: docker
-From: clamav/clamav:latest_base
+From: percona/pmm-server:latest
