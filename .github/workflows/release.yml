@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '19 4 * * *'
   push:
-    branches: [ main, '2', '2.33.0' ]
+    branches: [ main ]
 
 env:
   LATEST: '2.33.0'
