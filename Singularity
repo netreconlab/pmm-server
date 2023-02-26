@@ -1,2 +1,2 @@
 Bootstrap: docker
-From: percona/pmm-server:latest
+From: percona/pmm-server:2.34
